@@ -1,0 +1,5 @@
+print("Welcome to the Exam id generater.")
+standard = input("What is your standard?\n")
+Rollno = input("What is your Rollno?\n")
+division = input("what is your division?\n")
+print("Your Exam id Should be : "+division +standard+ Rollno)
